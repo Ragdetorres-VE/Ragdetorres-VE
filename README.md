@@ -1,7 +1,7 @@
 # Portafolio de Edgar Guzmán – Desarrollador Web
 
 ## 1. Amboli.es
-- **Descripción:** Tienda online de moda con una experiencia de usuario optimizada y un diseño atractivo.
+- **Descripción:** Tienda online de venta de aceite de olive 100% organico.
 - **Tecnologías:** WordPress, WooCommerce, Elementor, JavaScript, CSS
 - 🔗 [Ver proyecto](https://amboli.es/)
 
@@ -100,10 +100,10 @@
 - **Tecnologías:** Shopify, Liquid, JavaScript, HTML, CSS
 - 🔗 [Ver proyecto](https://uhmami.es/)
 
-## 21. Shavox.com
-- **Descripción:** Tienda online con integración de pago y diseño responsive.
-- **Tecnologías:** Shopify, Liquid, JavaScript, HTML, CSS
-- 🔗 [Ver proyecto](https://shavox.com/)
+## 21. eldorado.gg
+- **Descripción:** Mercado de Oro y Cuentas Más Seguro Para los Jugadores.
+- **Tecnologías:** Angular, Typescript, JavaScript, HTML, CSS
+- 🔗 [Ver proyecto](https://www.eldorado.gg/)
 
 ...
 
